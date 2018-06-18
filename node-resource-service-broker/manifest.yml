@@ -2,3 +2,5 @@ applications:
 - instances: 3
   memory: 128M
   command: node testresourceservicebroker.js
+  host: rmc-3p-rb-cfapp-01
+  domain: mybluemix.net
