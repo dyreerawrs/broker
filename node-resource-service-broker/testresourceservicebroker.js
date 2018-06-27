@@ -12,7 +12,7 @@ var url              = require("url");
 var uuid             = require("uuid/v4");
 
 // TODO - This service name must be unique within an IBM Cloud environment's set of service offerings
-var SERVICE_NAME = "rmc-3p-rb-03";
+var SERVICE_NAME = "rmc-1p-rb-01";
 
 // TODO - Change your basic authentication credentials
 var SERVICE_BROKER_USER     = "TestServiceBrokerUser";
