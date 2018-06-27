@@ -2,5 +2,5 @@ applications:
 - instances: 3
   memory: 64M
   command: node testresourceservicebroker.js
-  host: rmc-3p-rb-02
+  host: rmc-3p-rb-03
   domain: stage1.mybluemix.net
