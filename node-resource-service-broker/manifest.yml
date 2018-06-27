@@ -1,5 +1,5 @@
 applications:
-- instances: 3
+- instances: 1
   memory: 64M
   command: node testresourceservicebroker.js
   host: rmc-1p-rb-01
