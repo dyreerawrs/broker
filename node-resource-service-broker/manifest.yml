@@ -3,4 +3,4 @@ applications:
   memory: 64M
   command: node testresourceservicebroker.js
   host: rmc-3p-rb-06
-  domain: mybluemix.net
+  domain: bluemix.net
